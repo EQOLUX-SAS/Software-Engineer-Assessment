@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-engineer-assessment",
+  "version": "1.0.0",
+  "description": "Full Stack Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EQOLUX-SAS/Full-Stack-Engineer-Assessment.git"
+  },
+  "author": "Raphael Mahiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EQOLUX-SAS/Full-Stack-Engineer-Assessment/issues"
+  },
+  "homepage": "https://github.com/EQOLUX-SAS/Full-Stack-Engineer-Assessment#readme"
+}
