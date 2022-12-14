@@ -1,5 +1,5 @@
 
-# Senior Software Engineer Assessment
+# Software Engineer Assessment
 
 ## Services:
 1. frontend: react
